@@ -1,1 +1,2 @@
 RED - first color
+Orange - second color
